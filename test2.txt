@@ -1,8 +1,1 @@
-ls
-
-
-hi[6~gh
-clear
-exit
-quit
-yeah well fuck you
+hello world
